@@ -31,6 +31,7 @@ Hey there! I'm Sagnik, a Software Engineer passionate about building cool stuff.
 - Codeigniter
 - CakePHP
 - Java
+- Laraship
 
 ### IoT
 - Arduino
@@ -39,3 +40,9 @@ Hey there! I'm Sagnik, a Software Engineer passionate about building cool stuff.
 - MySQL
 - MSSQL Server
 - MongoDB
+
+  ## Connect with Me
+
+Let's connect and discuss exciting projects! You can find me on [LinkedIn](https://in.linkedin.com/in/sagnik-dey-483423a9) and [GitHub](https://github.com/sagnikrivud).
+
+Feel free to reach out!
