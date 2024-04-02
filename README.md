@@ -32,6 +32,7 @@ Hey there! I'm [Sagnik](https://in.linkedin.com/in/sagnik-dey-483423a9), a Softw
 - CakePHP 🎂
 - Java ☕
 - Laraship
+- Shell Scripting
 
 ### IoT
 - Arduino
