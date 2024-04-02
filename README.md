@@ -25,13 +25,12 @@ Hey there! I'm Sagnik, a Software Engineer passionate about building cool stuff.
 - React
 
 ### Backend Technology
-- Laravel
-- Lumen
-- Node.js
-- Codeigniter
-- CakePHP
-- Java
-- Laraship
+- Laravel 🚀
+- Lumen 🛠️
+- Node.js 🚀
+- Codeigniter 🖥️
+- CakePHP 🎂
+- Java ☕
 
 ### IoT
 - Arduino
