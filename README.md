@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hey there! I'm Sagnik, a Software Engineer passionate about building cool stuff. I specialize in both frontend and backend technologies, with experience in IoT and various databases.
+Hey there! I'm [Sagnik](https://in.linkedin.com/in/sagnik-dey-483423a9), a Software Engineer passionate about building cool stuff. I specialize in both frontend and backend technologies, with experience in IoT and various databases.
 
 ## Skills
 
