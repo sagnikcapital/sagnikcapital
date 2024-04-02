@@ -14,3 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hey there! I'm Sagnik, a Software Engineer passionate about building cool stuff. I specialize in both frontend and backend technologies, with experience in IoT and various databases.
+
+## Skills
+
+### Frontend Technology
+- Vue
+- Angular
+- React
+
+### Backend Technology
+- Laravel
+- Lumen
+- Node.js
+- Codeigniter
+- CakePHP
+- Java
+
+### IoT
+- Arduino
+
+### Database
+- MySQL
+- MSSQL Server
+- MongoDB
