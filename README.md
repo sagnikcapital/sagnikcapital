@@ -36,9 +36,9 @@ Hey there! I'm Sagnik, a Software Engineer passionate about building cool stuff.
 - Arduino
 
 ### Database
-- MySQL
-- MSSQL Server
-- MongoDB
+- MySQL 🗃️
+- MSSQL Server 🗄️
+- MongoDB 🍃
 
   ## Connect with Me
 
